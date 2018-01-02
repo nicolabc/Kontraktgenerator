@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\nicolas\documents\visual studio 2015\projects\kontraktgenerator\kontraktgenerator\main.cpp(121): warning C4129: '{': unrecognized character escape sequence
+c:\users\nicolas\documents\visual studio 2015\projects\kontraktgenerator\kontraktgenerator\main.cpp(124): warning C4129: ' ': unrecognized character escape sequence
+c:\users\nicolas\documents\visual studio 2015\projects\kontraktgenerator\kontraktgenerator\main.cpp(129): warning C4129: ' ': unrecognized character escape sequence
+c:\users\nicolas\documents\visual studio 2015\projects\kontraktgenerator\kontraktgenerator\main.cpp(132): warning C4129: ' ': unrecognized character escape sequence
+c:\users\nicolas\documents\visual studio 2015\projects\kontraktgenerator\kontraktgenerator\main.cpp(138): warning C4129: ' ': unrecognized character escape sequence
+c:\users\nicolas\documents\visual studio 2015\projects\kontraktgenerator\kontraktgenerator\main.cpp(142): warning C4129: ' ': unrecognized character escape sequence
+  Kontraktgenerator.vcxproj -> C:\Users\Nicolas\Documents\Visual Studio 2015\Projects\Kontraktgenerator\Debug\Kontraktgenerator.exe

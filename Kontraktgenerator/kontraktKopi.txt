@@ -1,0 +1,56 @@
+\documentclass[10pt]{article} 
+\usepackage[norsk]{ babel } 
+\usepackage[utf8]{ inputenc } 
+\usepackage{ geometry } 
+\geometry{ letterpaper,tmargin = 1in,bmargin = 1in,lmargin = 1.4in,rmargin = 1.4in } 
+\begin{ document } 
+\begin{ center } {
+\Large Avtale mellom Rekrutteringsdagen 2016 og[BEDRIFTEN]} 
+\end{ center } 
+\hrule height .1mm 
+\vspace{ .5cm } 
+\noindent Denne avtalen er datert til og effektuert fra og med[DATO], mellom:\ \ 
+{\bf BEDRIFTENS NAVN\ 
+ADRESSELINJE 1\ 
+ADRESSELINJE 2\} 
+\ 
+og\ 
+\ 
+{\bf Rekrutteringsdagen 2016\ 
+O.S.Bragstadsplass 2D elektroblokk\ 
+7034 Trondheim\} 
+\ 
+Rekrutteringsdagen arrangeres torsdag 11. februar 2016 fra 10.00 - 15.00 i Glassgården på NTNUs campus Gløshaugen.Gjennom denne avtalen enes Rekrutteringsdagen 2016 og[BEDRIFTEN] om følgende forhold : 
+ 
+ 
+\section{ Rekrutteringsdagens forpliktelser } 
+ 
+[BEDRIFTEN] bekrefter med dette å ha valgt[PAKKE], [PRIS EKS MVA], til Rekrutteringsdagen 2016. 
+ 
+I denne pakken inngår : [LIST OPP PUNKTER SOM INNGÅR I PAKKEN, SE EKSEMPELKONTRAKT] 
+ 
+\begin{ enumerate } 
+\item Stand i glassgården 
+\item Strøm, bord, 2 stoler og tilgang på internett 
+\item Logo på program 
+\end{ enumerate } 
+ 
+Rekrutteringsdagen forplikter seg til de avtaler som er gjort i henhold til valg av pakke.Rekrutteringsdagen plikter også å stille med lunsj og oppfriskninger til de ansatte i bedriften gjennom dagen. 
+ 
+\section{ Bedriftens forpliktelser } 
+ 
+[BEDRIFTEN] forplikter seg til å møte opp til avtalt dag og tid.Ved manglende oppmøte vil fullt honorar bli krevd.Hvis[BEDRIFTEN] trekker seg mindre enn én måned før Rekrutteringsdagen 2016 vil fullt honorar bli krevd.Hvis[BEDRIFTEN] trekker seg mer enn én måned før Rekrutteringsdagen 2016, vil 50 prosent av forhåndsavtalt honorar bli krevd.Trekker[BEDRIFTEN] seg når det er mindre enn én måned til Rekrutteringsdagen regnes dette som manglende oppmøte, og fullt honorar må innbetales Rekrutteringsdagen. 
+ 
+ 
+\vspace{ 1cm } 
+ 
+\noindent Undertegnede samtykker med dette til å overholde denne avtalen på vegne av hans / hennes organisasjon eller bedrift.\\ 
+ 
+\noindent \begin{ tabular }{l l l} 
+På vegne av bedriften : &\rule{ 6cm }{.2pt} &Dato: \rule{ 2.4cm }{.2pt}\ 
+& Bedriftsrepresentant & \\\ 
+På vegne av Rekrutteringsdagen 2016: &\rule{ 6cm }{.2pt} &Dato: \rule{ 2.4cm }{.2pt}\ 
+& Bjørn Håvard Hoffmann, Leder Bedriftskontakt & \ 
+\end{ tabular } 
+ 
+\end{ document }
