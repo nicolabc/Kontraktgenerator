@@ -1,5 +1,6 @@
 # Kontraktgenerator
-Kontraktgenerator laget i forbindelse med [Nettverksdagen](http://nettverksdagene.no/) 2018. Gir ut en txt-fil i latex som kan legges inn i en latex editor for � kompilere til et PDF dokument.
+Kontraktgenerator laget i forbindelse med [Nettverksdagen](http://nettverksdagene.no/) 2018. Gir 
+ut en txt-fil i LaTeX som kan legges inn i en LaTeX editor for å kompilere til et PDF dokument.
 
 ![](https://i0.wp.com/news.bitcoin.com/wp-content/uploads/2018/09/TokenGen-Smart-Contract-Creator-for-the-Token-Economy1.png?ssl=1)
 
@@ -11,10 +12,12 @@ en .txt fil kalt `kontrakt.txt` lages i nedlastingsmappen
 3. Kopier innholdet i filen til en `LaTeX` kompilator (f.eks 
 [overleaf](https://www.overleaf.com/project) eller [latexbase](https://latexbase.com/)). Sørg for at formateringen er fin  
 4. Last ned dokumentet som PDF og bruk kontrakten som ønsket
+### Kode
 
+Koden til release finnes i `main.cpp` som ligger i [her](https://github.com/nicolabc/Kontraktgenerator/blob/1.0/Code/Kontraktgenerator/main.cpp)
 ## Kontakt
 
-Nicolas B. Carbone - [@LinkedIn](https://www.linkedin.com/in/nicolas-blystad-carbone-b46378150/) � nicolasbcarbone@gmail.com
+Nicolas B. Carbone - [@LinkedIn](https://www.linkedin.com/in/nicolas-blystad-carbone-b46378150/) - nicolasbcarbone@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
