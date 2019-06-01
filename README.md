@@ -14,7 +14,7 @@ en .txt fil kalt `kontrakt.txt` lages i nedlastingsmappen
 4. Last ned dokumentet som PDF og bruk kontrakten som ønsket
 ### Kode
 
-Koden til release finnes i `main.cpp` som ligger i [her](https://github.com/nicolabc/Kontraktgenerator/blob/1.0/Code/Kontraktgenerator/main.cpp)
+Koden til release finnes i `main.cpp` som ligger [her](https://github.com/nicolabc/Kontraktgenerator/blob/1.0/Code/Kontraktgenerator/main.cpp)
 ## Kontakt
 
 Nicolas B. Carbone - [@LinkedIn](https://www.linkedin.com/in/nicolas-blystad-carbone-b46378150/) - nicolasbcarbone@gmail.com
