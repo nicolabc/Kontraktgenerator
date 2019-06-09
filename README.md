@@ -4,6 +4,8 @@ ut en txt-fil i LaTeX som kan legges inn i en LaTeX editor for å kompilere til 
 
 ![](https://i0.wp.com/news.bitcoin.com/wp-content/uploads/2018/09/TokenGen-Smart-Contract-Creator-for-the-Token-Economy1.png?ssl=1)
 
+## Todo
+-[ ] Gjøre slik at latex koden gir ut PDF med en gang(...?)
 ## Installasjon og bruk
 
 1. Last ned og kjør `kontraktgenerator.exe` fra [release](https://github.com/nicolabc/Kontraktgenerator/releases) 
