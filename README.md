@@ -12,7 +12,7 @@ ut en txt-fil i LaTeX som kan legges inn i en LaTeX editor for å kompilere til 
 2. Følg instruksjonene som kommer opp. Når kontrakten er fylt ut vil 
 en .txt fil kalt `kontrakt.txt` lages i nedlastingsmappen
 3. Kopier innholdet i filen til en `LaTeX` kompilator (f.eks 
-[overleaf](https://www.overleaf.com/project)). Sørg for at formateringen er fin. Unngå lange adresser, evt bruk forkotelser
+[overleaf](https://www.overleaf.com/project)). Sørg for at formateringen er fin. Unngå lange adresser, evt bruk forkortelser
 4. Last ned dokumentet som PDF og bruk kontrakten som ønsket
 
 ### Kode
